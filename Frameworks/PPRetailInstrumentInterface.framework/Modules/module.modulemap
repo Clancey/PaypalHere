@@ -1,0 +1,6 @@
+framework module PPRetailInstrumentInterface {
+  umbrella header "PPRetailInstrumentInterface-umbrella.h"
+
+  export *
+  module * { export * }
+}
